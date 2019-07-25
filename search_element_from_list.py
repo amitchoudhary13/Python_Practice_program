@@ -1,6 +1,7 @@
 '''
 Write a program to search given element from the list. Use your own function to search an element from list. Note: Function should receive variable length arguments and search each of these arguments present in the list.
 
+
 '''
 
 def search_list(lst,*terms_to_search):
