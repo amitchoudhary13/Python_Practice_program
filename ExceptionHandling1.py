@@ -1,4 +1,5 @@
 #Write a program to handle the following exceptions in you program.
+
 #a) KeyboardInterrupt
 #b) NameError
 #c) ArithmeticError Note: Make use of try, except, else: block statements.
